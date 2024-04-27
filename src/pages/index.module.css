@@ -37,3 +37,12 @@
   border-width: 1px;
   border-radius: 50%;
 }
+
+.artStyle {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  background-color: aqua;
+  border: solid;
+  border-radius: 50%;
+}
